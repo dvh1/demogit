@@ -19,4 +19,12 @@ spring boot 3.3.4 com.example.demogit gradle groovy java 17 spring web
    - 그래서 github에서 .gitignore 파일을 삭제후 커밋하고 다시 풀함
 2. 인텔리제이에서 첫번째 커밋 및 푸시
 
+## 테스트2
+git>github>github에 프로젝트 공유
 
+## branch test
+1. main 운영용으로 치고
+2. dev 개발용
+3. my1 개인 개발용
+
+우선은 그냥 main과 dev로 테스트해봄
